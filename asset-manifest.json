@@ -1,23 +1,33 @@
 {
   "files": {
-    "main.css": "/Brewing-Coffee-Machine/static/css/main.d1b05096.chunk.css",
-    "main.js": "/Brewing-Coffee-Machine/static/js/main.fdc760f8.chunk.js",
-    "main.js.map": "/Brewing-Coffee-Machine/static/js/main.fdc760f8.chunk.js.map",
-    "runtime-main.js": "/Brewing-Coffee-Machine/static/js/runtime-main.eed116cb.js",
-    "runtime-main.js.map": "/Brewing-Coffee-Machine/static/js/runtime-main.eed116cb.js.map",
-    "static/js/2.3c16eec8.chunk.js": "/Brewing-Coffee-Machine/static/js/2.3c16eec8.chunk.js",
-    "static/js/2.3c16eec8.chunk.js.map": "/Brewing-Coffee-Machine/static/js/2.3c16eec8.chunk.js.map",
+    "main.css": "/Brewing-Coffee-Machine/static/css/main.ef95d34d.chunk.css",
+    "main.js": "/Brewing-Coffee-Machine/static/js/main.db647a7c.chunk.js",
+    "main.js.map": "/Brewing-Coffee-Machine/static/js/main.db647a7c.chunk.js.map",
+    "runtime-main.js": "/Brewing-Coffee-Machine/static/js/runtime-main.2a95f267.js",
+    "runtime-main.js.map": "/Brewing-Coffee-Machine/static/js/runtime-main.2a95f267.js.map",
+    "static/js/2.39194fda.chunk.js": "/Brewing-Coffee-Machine/static/js/2.39194fda.chunk.js",
+    "static/js/2.39194fda.chunk.js.map": "/Brewing-Coffee-Machine/static/js/2.39194fda.chunk.js.map",
     "index.html": "/Brewing-Coffee-Machine/index.html",
-    "precache-manifest.b1812126041b13d530c4c1194c2fb0a6.js": "/Brewing-Coffee-Machine/precache-manifest.b1812126041b13d530c4c1194c2fb0a6.js",
+    "precache-manifest.227a35330182898e5a223590ef18dc8c.js": "/Brewing-Coffee-Machine/precache-manifest.227a35330182898e5a223590ef18dc8c.js",
     "service-worker.js": "/Brewing-Coffee-Machine/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/Brewing-Coffee-Machine/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.3c16eec8.chunk.js.LICENSE.txt": "/Brewing-Coffee-Machine/static/js/2.3c16eec8.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Brewing-Coffee-Machine/static/media/logo.5d5d9eef.svg"
+    "static/css/main.ef95d34d.chunk.css.map": "/Brewing-Coffee-Machine/static/css/main.ef95d34d.chunk.css.map",
+    "static/js/2.39194fda.chunk.js.LICENSE.txt": "/Brewing-Coffee-Machine/static/js/2.39194fda.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/Brewing-Coffee-Machine/static/media/1.2a4054fc.jpg",
+    "static/media/10.jpg": "/Brewing-Coffee-Machine/static/media/10.592c5007.jpg",
+    "static/media/11.jpg": "/Brewing-Coffee-Machine/static/media/11.8d98dcf9.jpg",
+    "static/media/2.jpg": "/Brewing-Coffee-Machine/static/media/2.cff7939f.jpg",
+    "static/media/3.jpg": "/Brewing-Coffee-Machine/static/media/3.5e44b1b6.jpg",
+    "static/media/4.jpg": "/Brewing-Coffee-Machine/static/media/4.d2dcbdb2.jpg",
+    "static/media/5.jpg": "/Brewing-Coffee-Machine/static/media/5.e607a8b1.jpg",
+    "static/media/6.jpg": "/Brewing-Coffee-Machine/static/media/6.5591c612.jpg",
+    "static/media/7.jpg": "/Brewing-Coffee-Machine/static/media/7.006f8860.jpg",
+    "static/media/8.jpg": "/Brewing-Coffee-Machine/static/media/8.a985065b.jpg",
+    "static/media/9.jpg": "/Brewing-Coffee-Machine/static/media/9.b8eb85a7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eed116cb.js",
-    "static/js/2.3c16eec8.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.fdc760f8.chunk.js"
+    "static/js/runtime-main.2a95f267.js",
+    "static/js/2.39194fda.chunk.js",
+    "static/css/main.ef95d34d.chunk.css",
+    "static/js/main.db647a7c.chunk.js"
   ]
 }
